@@ -1,0 +1,10 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+buildreq-qmake
+qtbase-dev
+qttools
+buildreq-kde
+libxkbfile-dev
+libxkbcommon-dev
+Vulkan-Headers
+Vulkan-Tools
